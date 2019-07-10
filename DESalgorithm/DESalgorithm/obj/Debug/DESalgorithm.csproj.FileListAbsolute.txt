@@ -1,0 +1,13 @@
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\bin\Debug\DESalgorithm.exe.config
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\bin\Debug\DESalgorithm.exe
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\bin\Debug\DESalgorithm.pdb
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\bin\Debug\aa-DJ\DESalgorithm.resources.dll
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.csprojResolveAssemblyReference.cache
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.Form1.resources
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.Properties.Resources.resources
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.Form1.aa-DJ.resources
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.csproj.GenerateResource.cache
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.csproj.CoreCompileInputs.cache
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\aa-DJ\DESalgorithm.resources.dll
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.exe
+D:\facultate\AN4\SEM2\CSI\DESalgorithm\DESalgorithm\obj\Debug\DESalgorithm.pdb
