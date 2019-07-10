@@ -1,1 +1,1 @@
-# This project contains algorithms for encode an decode data
+# This project contains algorithms for encode and decode data
